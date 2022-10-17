@@ -1,0 +1,10 @@
+[package]
+name = "danii-os"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bootloader = "0.9.23"
+spin = "0.9.4"
+volatile = "0.4.5"
+x86_64 = "0.14.10"
